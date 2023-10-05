@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telecall - Google Verified Calls</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <main class="conteudo">
+    <section id="alinhamento-oque-e">
+      <div id="conteudo-oque-e">
+        <h1 class="titulo-oque-e"> O que é?</h1>
+        <p class="subtitulo-oque-e">Chamadas verificadas.</p>
+        <p class="alinhamento-paragrafo">Esse novo recurso do <strong id="negrito">Google</strong>, exclusivo para telefones <strong id="negrito">Android</strong>, permite que empresas exibam para o cliente na hora da chamada sua marca, logotipo e até mesmo o motivo da chamada.</p>
+        <p class="alinhamento-paragrafo">A Telecall é <strong id="negrito">a primeira operadora de telecom no  Brasil</strong> a oferecer esse recurso do Google.</p>
+      </div>
+      
+      <div id="conteudo-oque-e-imagem">
+        <img id="oque-e-imagem" src="imagem-tel(google calls).png" alt="Celular recebendo ligação de um número que mostra a logo da empresa, o nome e o motivo da ligação">
+      </div>
+    </section>
+
+    <section id="alinhamento-o-problema">
+      <div id="conteudo-o-problema">
+        <h2 id="titulo-o-problema">O problema</h2>
+        <h3 id="subtitulo-o-problema">Ligações de spam.</h3>
+        <ul id="lista">
+          <li>O Brasil é o país que mais sofre com ligações de spam no <strong id="negrito">mundo</strong>.</li>
+          <li>Desde 2017, as chamadas telefônicas de spam no Brasil <strong id="negrito">aumentaram 141%</strong>.</li>
+          <li>O brasileiro recebe em média <strong id="negrito">49.9 ligações</strong> de spam por mês.</li>
+        </ul>
+      </div>
+
+      <div id="conteudo-o-problema-imagem">
+        <img id="o-problema-imagem" src="imagem(google calls).png" alt="Gráfico de ligações indesejadas no Brasil">
+      </div>
+    </section>
+
+    <section id="alinhamento-compatibilidade">
+      <div id="conteudo-compatibilidade">
+        <h2 id="titulo-compatibilidade">Compatibilidade</h2>
+        <ul id="lista-compatibilidade">
+          <li>Exclusivo para sistema operacional <strong id="negrito">Android</strong> através do aplicativo <strong id="negrito">Telefone</strong>.</li>
+          <li>Pré-instalado em telefones mais recentes ou pode ser baixado do <strong id="negrito">Google Play Store</strong> para a maioria dos dispositivos com Android 9.0.</li>
+          <li>Hoje no Brasil existem quase <strong id="negrito">239 milhões de celulares smartphone ativos</strong>, sendo que o sistema <strong id="negrito">Android</strong> detém uma participação de mais de <strong id="negrito">86%</strong> do mercado de sistema operacional móvel no país.</li>
+        </ul>
+      </div>
+
+      <div id="conteudo-compatibilidade-imagem">
+        <img id="compatibilidade-imagem" src="compatibilidade(google-calls).png" alt="Celular com o Google Play Store aberto no aplicativo Telefone">
+      </div>
+    </section>
+
+    <section id="alinhamento-como-funciona">
+      <div id="conteudo-como-funciona">
+        <h2 id="titulo-como-funciona">Como funciona?</h2>
+        <img id="como-funciona-imagem" src="como funciona(google calls).png" alt="Funcionamento do Google Verified Calls">
+      </div>
+    </section>
+
+    <section id="alinhamento-beneficios">
+      <div id="conteudo-beneficios">
+        <h2 id="titulo-beneficios">Benefícios</h2>
+        <ul id="lista-beneficios">
+          <li><strong class="negrito-beneficios">Estabeleça Confiança</strong></li>
+          <li class="item-lista-beneficios">Clientes são mais propensos a atender chamadas de organizações com os quais estão familiariazados e com as quais já tem relação.</li>
+          <li><strong class="negrito-beneficios">Agilize a Conexão</strong></li>
+          <li class="item-lista-beneficios">Quando o motivo da chamada é claro, a chance de o cliente atender é muito maior e a conexão com ele é mais rápida e eficiente.</li>
+          <li><strong class="negrito-beneficios">Melhore a Experiência do Cliente</strong></li>
+          <li class="item-lista-beneficios">O nome da marca, logotipo e a visualização do motivo da chamada oferecem uma experiência melhor e muito mais amigável para o cliente.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="alinhamento-usos">
+      <div id="conteudo-uso">
+        <h2 id="titulo-usos">Usos</h2>
+        <ul id="lista-usos">
+          <li>Aviso de problemas de <strong id="negrito">fraude</strong> de cartão de crédito.</li>
+          <li>Aviso de atrasos e cancelamentos de <strong id="negrito">voos</strong>.</li>
+          <li><strong id="negrito">Agendamentos</strong> de serviços, entregas, reparos e instalações.</li>
+          <li><strong id="negrito">Avisos</strong> sobre agendamentos, exames e resultados.</li>
+          <li>Oferecer uma melhor experiência de <strong id="negrito">vendas</strong> e <strong id="negrito">promoções</strong>.</li>
+        </ul>
+      </div>
+      
+      <div id="conteudo-usos-imagem">
+        <img id="imagem-usos-verified-calls" src="usos(googlecalls).png" alt="Usos do Google Verified Calls">
+      </div>
+    </section>
+  </main>
+</body>
+
+</html>
